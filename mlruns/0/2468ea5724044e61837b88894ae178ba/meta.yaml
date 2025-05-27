@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/euler/PycharmProjects/mlops/mlruns/0/2468ea5724044e61837b88894ae178ba/artifacts
+end_time: 1748388509049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2468ea5724044e61837b88894ae178ba
+run_name: experiment_mlops_ead
+run_uuid: 2468ea5724044e61837b88894ae178ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748388502858
+status: 3
+tags: []
+user_id: euler
